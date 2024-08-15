@@ -1,0 +1,52 @@
+*************************************************
+* version: 2022.4 update 2                      *
+* working directr: Desktop/JDT                  *
+* file name: input.scs                          *
+*************************************************
+
+******** Command line
+afs input.scs -o afs/afs.out -l afs/afs.log  -d -z cardsfile
+
+******* Ignored options
+psfversion = "1.1.4", printtranprogress = 1.
+
+******* Used options
+captab = 1, mode = 5, maxwarns = -1, --mt = 8, --mcp = 4.
+
+
+starting dptran2
+[SIM_WARNING]	time step too small.
+[SIM_WARNING]	time step too small.
+[SIM_WARNING]	time step too small.
+[SIM_WARNING]	time step too small.
+	check the voltage source.
+
+failed to converge with dptran2
+
+[SIM_ERROR]	0 : dc analysis failed can't continue with tran.
+	this error is not recoverable.
+[SIM_ERROR]	1 : dc analysis failed can't continue with tran.
+	this error is not recoverable.
+[SIM_ERROR]	2 : dc analysis failed can't continue with tran.
+	this error is not recoverable.
+
+
+
+starting newton-raphson
+akls;jfsd;fj
+a sjdkfjs;fjklasd
+f asdklfjslk;afj;sjf
+ asfjsdk;lfjsd'jflkajs;fljsd
+ fa
+ jds
+ fj
+failed to converge with newton-raphson.
+
+
+
+starting allgmin
+asl;kjflf
+safjklsdajf;sjaf
+asdjfsjaflk;sjdafl 
+fjsdfklaj;
+allgmin finished successfully.

@@ -1,0 +1,2 @@
+***** Command-Line Options Used 
+ afs input.scs -o afs2022.4 

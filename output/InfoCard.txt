@@ -1,0 +1,16 @@
+ ********************************************************************DEVELOPER
+ * Version: AFS 64-bit (2022.4  : 2022-10-20)                                *
+ * Build date: Thu Oct 20 09:30:51 PDT 2022                                  *
+ * Exec name: /ams/product/qa_install/qa_g5_2022_4/bin/Linux_x86_64/simulator*
+ * AFS_ROOT: /ams/product/qa_install/qa_g5_2022_4                            *
+ * User: ahmlil5w, Host: ies-ahmlil5w-vm, Proc id: 22963                     *
+ * Working Directory: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874        *
+ * OS: Linux, Machine Type: x86_64                                           *
+ *                                                                           *
+ * Copyright 2004-2022 Mentor Graphics Corporation                           *
+ * All Rights Reserved.                                                      *
+ *                                                                           *
+ * THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION               *
+ * WHICH ARE THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS              *
+ * LICENSORS AND IS SUBJECT TO LICENSE TERMS.                                *
+ *****************************************************************************

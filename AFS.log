@@ -1,0 +1,316 @@
+ ********************************************************************DEVELOPER
+ * Version: AFS 64-bit (2022.4  : 2022-10-20)                                *
+ * Build date: Thu Oct 20 09:30:51 PDT 2022                                  *
+ * Exec name: /ams/product/qa_install/qa_g5_2022_4/bin/Linux_x86_64/simulator*
+ * AFS_ROOT: /ams/product/qa_install/qa_g5_2022_4                            *
+ * User: ahmlil5w, Host: ies-ahmlil5w-vm, Proc id: 22963                     *
+ * Working Directory: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874        *
+ * OS: Linux, Machine Type: x86_64                                           *
+ *                                                                           *
+ * Copyright 2004-2022 Mentor Graphics Corporation                           *
+ * All Rights Reserved.                                                      *
+ *                                                                           *
+ * THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION               *
+ * WHICH ARE THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS              *
+ * LICENSORS AND IS SUBJECT TO LICENSE TERMS.                                *
+ *****************************************************************************
+
+No license checked out yet; briefly checking out license to enable validating encrypted key for limited features
+Acquired AFS license
+Released AFS license
+User provided limited feature encrypted key allows use of 'AFS Developer Mode' feature
+Developer Mode is ENABLED
+Reading defaults file '/home/frgvalid/afscfg_file'
+
+Job Start Time: Sun Jan 15 11:24:08 2023
+
+***** Command-Line Options Used 
+ afs input.scs -o afs2022.4 
+
+***** Memory Information
+ Physical Memory : 31.26 GB
+ Available Memory: 29.41 GB
+
+***** CPU Information
+ Hyperthreading: OFF (1 logical processor core per physical core)
+ Model Name: Intel(R) Xeon(R) Gold 6242R CPU @ 3.10GHz
+ Processor  PhysicalID  CoreID  Frequency(MHz)
+     0          0         0       3092.733
+     1          2         0       3092.733
+     2          4         0       3092.733
+     3          6         0       3092.733
+     4          8         0       3092.733
+     5         10         0       3092.733
+     6         12         0       3092.733
+     7         14         0       3092.733
+
+
+Machine Load: 0 out of 8 processor cores busy.
+Parser started
+'parhier=local'. Local parameter assignments will take precedence over global assignments
+Processing VAMS source '/home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/AHDLINCLUDE/l55sp_res_v082.va'
+ compiled source cache is valid in working database
+Processing VAMS source '/home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/AHDLINCLUDE/Spectre/sprvt031rf_s.va'
+ compiled source cache is valid in working database
+Processing VAMS source '/home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/AHDLINCLUDE/Spectre/hvt11rfv031s.va'
+ compiled source cache is valid in working database
+Processing VAMS source '/home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/AHDLINCLUDE/Spectre/io25rf041s.va'
+ compiled source cache is valid in working database
+Processing VAMS source '/home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/AHDLINCLUDE/res_poly.va'
+ compiled source cache is valid in working database
+VerilogA compilation done.
+
+***** Parsing Complete; Total Parsing Time:
+	Wallclock Time: 00 00:00:00
+	CPU Time: 00 00:00:00
+
+
+***** VerilogA Compilation Time:
+	Wallclock Time: 00 00:00:00
+	CPU Time: 00 00:00:00
+
+SIM_WARNING[GEN340]: The following options are not valid and will be ignored : ' scalem maxnotes digits cols pivrel sensfile "../psf/sens.output"'
+
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:33: Parameter mis_flag not supported for I3.I2.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:33: Parameter mf not supported for I3.I2.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:42: Parameter mis_flag not supported for I3.I2.PM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:42: Parameter mf not supported for I3.I2.PM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:59: Parameter mis_flag not supported for I3.I4.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:59: Parameter mf not supported for I3.I4.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:68: Parameter mis_flag not supported for I3.I4.PM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:68: Parameter mf not supported for I3.I4.PM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:90: Parameter mis_flag not supported for I3.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:90: Parameter mf not supported for I3.NM0 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:97: Parameter mis_flag not supported for I3.NM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:97: Parameter mf not supported for I3.NM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:106: Parameter mis_flag not supported for I3.PM5 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:106: Parameter mf not supported for I3.PM5 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:114: Parameter mis_flag not supported for I3.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:114: Parameter mf not supported for I3.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:166: Parameter mis_flag not supported for I6.PM1 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:166: Parameter mf not supported for I6.PM1 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:174: Parameter mis_flag not supported for I6.NM3 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:174: Parameter mf not supported for I6.NM3 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:128: Parameter mis_flag not supported for I6.I1.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:128: Parameter mf not supported for I6.I1.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:131: Parameter mis_flag not supported for I6.I1.NM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:131: Parameter mf not supported for I6.I1.NM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:151: Parameter mis_flag not supported for I6.I6.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:151: Parameter mf not supported for I6.I6.PM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:155: Parameter mis_flag not supported for I6.I6.NM2 device .
+SIM_WARNING[DEV111]: /home/ahmlil5w/Siemens.EDA.PE/JCC_PH3A/AFS23874/input.scs:155: Parameter mf not supported for I6.I6.NM2 device .
+Analog module platform compile:
+    [1] amswork.res_va (valid object cache, no platform compile required)
+    Analog module design library exists, no link required.
+Done with exporting 2 VerilogA device(s).
+
+***** Elaboration Complete; Total Elaboration Time:
+	Wallclock Time: 00 00:00:00
+	CPU Time: 00 00:00:00
+
+Circuit has only 48 unmerged elements; available AFS Nano license will suffice; trying to acquire it
+Acquired AFS Nano license
+SIM_WARNING[ANA318]: Multi-threading (MT) disabled; it is enabled by default only for circuits containing more than 10000 elements. To enforce multi-threading please specify --mt command-line option.
+
+Number of processor cores (limited by system) available: 8
+Number of processor cores to be used for multi-threading a single simulation run (mt): 1 
+
+SIM_WARNING[GEN91]: Dangling node OV on vcvs 'E0', adding conductance value = 1.000000e-12 to ground.
+Summary of possible problems in circuit:
+  Open-circuit current source   0       
+  Dangling MOS gate             0       
+  Dangling MOS bulk             0       
+  Dangling BJT substrate        0       
+  Dangling controlling node     0       
+  Dangling controlled isource   0       
+  Non-rail bulk terminal        0       
+Running a single threaded (--mt 1) simulation
+Total number of Devices with TSMC Built-in SOA Warning Check = 32
+Circuit equation has 89 nodes 30 unknowns 48 elements
+Circuit has 64 internal nodes in MOS elements.
+Circuit inventory:
+                    _bsim4v5_0   32      
+                         diode   2       
+                      resistor   2       
+              simple capacitor   4       
+                          vcvs   1       
+                       vsource   5       
+  veriloga                       2       
+                        res_va   2       
+
+
+Input distribution
+bin parameters        #resistors  #merged    #trimmed  #dangling 
+1.0e+01 -> 1.0e+02          2          0          0          0  
+Total                       2          0          0          0  
+
+bin parameters        #capacitors  #merged    #trimmed  #dangling 
+1.0e-17 -> 1.0e-16          4          0          0          0  
+Total                       4          0          0          0  
+
+
+
+***** Options Used 
+ reltol=0.001 vabstol=1e-06 iabstol=1e-12 temp=27 tnom=27 scale=1 gmin=1e-12 rforce=1 maxwarns=-1 dochecklimit=yes checklimitdest=psf
+ save=allpub maxwarns=-1 warn=1
+ post
+ temp=27
+
+***** Options Ignored
+ scalem maxnotes digits cols pivrel sensfile "../psf/sens.output"
+
+***** Analyses Used
+tran tran tstop = 2e-05 write = "afs.ic" writefinal = "afs.fc" maxiter = 10
+finalTimeOP info what = oppoint where = rawfile largesignalname = tran
+modelParameter info what = models where = rawfile
+element info what = inst where = rawfile
+outputParameter info what = output where = rawfile
+designParamVals info what = parameters where = rawfile
+primitives info what = primitives where = rawfile
+subckts info what = subckts where = rawfile
+asserts info what = assert where = rawfile largesignalname = tran
+SIM_WARNING[GEN438]: info analysis what=allparameters/subckts/models/inst will be handled before other analysis.
+Asserts that will be used (ON) or are unsupported/ignored (OFF)
+devcheck_stat=yes prints each rule with ON/OFF
+
+Checklimit Analysis: tranCheckLimit: time = (0->0)
+The following asserts will be enabled for all subsequent analyses until the next checklimit analysis statement is encountered:
+Asserts Statistics : 
+	 Number of ON Asserts and Circuit Checks = 0
+
+
+***** Setup Complete; Total Setup Time:
+	Wallclock Time: 00 00:00:00
+	CPU Time: 00 00:00:00
+
+
+***** Parsing, Elaboration and Setup Complete; Total Time:
+	Wallclock Time: 00 00:00:00
+	CPU Time: 00 00:00:00
+
+Starting Info Analysis..
+SIM_WARNING[GEN477]: Info Analysis what = models is not supported for nutbin output format.
+SIM_WARNING[ANA574]: Info Analysis unsuccessful
+SIM_WARNING[GEN477]: Info Analysis what = inst is not supported for nutbin output format.
+SIM_WARNING[ANA574]: Info Analysis unsuccessful
+SIM_WARNING[GEN477]: Info Analysis what = output is not supported for nutbin output format.
+SIM_WARNING[ANA574]: Info Analysis unsuccessful
+SIM_WARNING[GEN477]: Info Analysis what = subckts is not supported for nutbin output format.
+SIM_WARNING[ANA574]: Info Analysis unsuccessful
+***** Probe Information for tran Analysis tran
+25 Voltage probes
+5 Current probes
+Total number of probes 30
+
+Starting Transient Analysis..
+Starting traditional Newton Raphson..
+---------------------
+Autoselected Solver 0
+---------------------
+***** For DC analysis, traditional Newton Raphson finished successfully.
+  DC solution range: ( vdd3v3 = 3.3 , net7 = 0 ) V  ( V1#branch = 0 , V0#branch = -1.175e-09 ) A 
+
+
+***** DC Analysis Complete: DC Time ((00 00:00:00)
+DC CPU Time: 00 00:00:00
+
+
+DC: Time in Analysis: 00 00:00:00.
+
+
+	abstol(I) = 1 pA      
+	abstol(V) = 1 uV      
+	ctrim = 1e-20
+	errpreset = moderate
+	multilevel = 1
+	multilevel count = 32
+	gmin = 1 pS      
+	ltrim = 1e-14
+	maxiterationsfordc = 100
+	maxiterationsfortransient = 10
+	maxstep = 0.40 us   
+	mt = 1
+	outputstart = 0 s       
+	reltol = 0.001
+	rlargetrim = 1e+13
+	rtrim = 0.001
+	skipdc = no
+	start = 0 s       
+	stop = 20 us     
+	temp = 27 C      
+	tnom = 27 C      
+
+Minimum device capacitance =	       8.15e-16
+Mean device capacitance =	        9.2e-15
+StdDev of  device capacitance =	       8.92e-15
+Median device capacitance =	       7.57e-15
+
+Adjusted mean device charge=2.56e-15
+---------------------
+Autoselected Solver 0
+---------------------
+Running transient from 0.000000e+00 to 2.000000e-05.
+Current Process  Resident Memory (GB): 0.067
+Current Process   Virtual Memory (GB): 0.503
+SIM_WARNING[DEV285]: Warning: Vgd(=1.21) of I3.PM5 has exceeded Vgd_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.259) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.259) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV285]: Warning: Vgd(=-1.21) of I3.PM4 has exceeded Vgd_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.301) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.301) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.354) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.354) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.336) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.336) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.249) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.249) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.286) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.286) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.339) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.339) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.323) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.323) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.286) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.286) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.339) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.339) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.323) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.323) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.286) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.286) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.339) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.339) of I3.PM4 has exceeded Vgs_max(=1.21).
+SIM_WARNING[DEV286]: Warning: Vds(=-1.323) of I3.PM5 has exceeded Vds_max(=1.21).
+SIM_WARNING[DEV289]: Warning: Vgs(=-1.323) of I3.PM4 has exceeded Vgs_max(=1.21).
+tran: time = 20.0000 us   (100.0000 %), step = 0.1231 us      (0.6157 %)
+
+
+***** Simulation Statistics For This Analysis:
+
+Elapsed WallClock Time (HH:MM:SS) in Analysis: 00 00:00:00.
+Elapsed WallClock Time (HH:MM:SS) in Analysis (excluding setup) : 00 00:00:00.
+DC: Time in Analysis: 00 00:00:00.
+Number of TimeSteps:        595.
+Current Process  Resident Memory (GB): 0.067
+Current Process   Virtual Memory (GB): 0.503
+Current Process Peak Resident Memory (GB): 0.111
+
+Transient Analysis finished successfully.
+Info Analysis finished successfully.
+Info Analysis finished successfully.
+Info Analysis finished successfully.
+Info Analysis finished successfully.
+
+Machine Load: 0 out of 8 processor cores busy.
+
+******** SIMULATION finished with 0 error(s) and 70 warning(s) ********
+
+***** Statistics For This Simulation Run:
+Job Start Time: Sun Jan 15 11:24:08 2023
+Job End Time:   Sun Jan 15 11:24:11 2023
+
+Time Spent Acquiring Licenses: 0 00:00:00.142
+Time Spent Simulating        : 0 00:00:03.298
+-----------------------------------------
+Elapsed Time: 0 00:00:03.440
+Released AFS Nano license
