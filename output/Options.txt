@@ -1,9 +1,0 @@
-***** Options Used 
- reltol=0.001 vabstol=1e-06 iabstol=1e-12 temp=27 tnom=27 scale=1 gmin=1e-12 rforce=1 maxwarns=-1 dochecklimit=yes checklimitdest=psf
- save=allpub maxwarns=-1 warn=1
- post
- temp=27
-
-***** Options Ignored
- scalem maxnotes digits cols pivrel sensfile "../psf/sens.output"
-
