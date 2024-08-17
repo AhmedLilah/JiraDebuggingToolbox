@@ -1,9 +1,9 @@
-#include "jdt.hpp"
+#include "../include/jdt.hpp"
 
 int main(int argc, char **argv) {
 	auto tic { std::chrono::high_resolution_clock::now() };
 	auto cla { jdt::parseCommandlineArgs(argc, argv) };
-        auto inputFileName {cla.getArgData(jdt::CLA::Options::InputFileName)};
+        auto inputFileName {cla.getArgData(jdt::CLAOptions::InputFileName)};
 	auto inputFile { jdt::openInputFile(inputFileName, cla)};
 	auto inputString { jdt::convertInputFileToString(inputFile) };
 	auto outputsVect { jdt::parseLogFile(inputString, cla)};
